@@ -1,10 +1,13 @@
 var searchData=
 [
-  ['obscure_20semantic_20differences_20from_20f3dex2_20that_20should_20never_20matter_20in_20practice_0',['Obscure semantic differences from F3DEX2 that should never matter in practice',['../md_README.html#autotoc_md29',1,'']]],
-  ['occlusion_20plane_20noc_1',['No Occlusion Plane (NOC)',['../md_README.html#autotoc_md7',1,'']]],
-  ['occlusionplane_2ec_2',['occlusionplane.c',['../occlusionplane_8c.html',1,'']]],
-  ['of_20scaled_20vertex_20normals_3',['Removal of scaled vertex normals',['../md_README.html#autotoc_md26',1,'']]],
-  ['opastart_4',['opaStart',['../counters_8c.html#a273b41a23ffaacd605df8d7d128a608c',1,'counters.c']]],
-  ['optimizing_20for_20rsp_20code_20size_5',['Optimizing for RSP code size',['../md_README.html#autotoc_md24',1,'']]],
-  ['overlay_204_6',['Overlay 4',['../md_README.html#autotoc_md23',1,'']]]
+  ['performance_20improvements_0',['Performance improvements',['../md_README.html#autotoc_md3',1,'']]],
+  ['performance_20results_1',['Performance Results',['../md_docs_2Documentation_2Performance.html',1,'']]],
+  ['performance_2emd_2',['Performance.md',['../Performance_8md.html',1,'']]],
+  ['pipeline_20lvp_3',['Legacy Vertex Pipeline (LVP)',['../md_docs_2Documentation_2Configuration.html#autotoc_md12',1,'']]],
+  ['plane_20noc_4',['No Occlusion Plane (NOC)',['../md_docs_2Documentation_2Configuration.html#autotoc_md11',1,'']]],
+  ['porting_20your_20romhack_20codebase_20to_20f3dex3_5',['Porting Your Romhack Codebase to F3DEX3',['../md_docs_2Documentation_2Porting_01your_01Romhack.html',1,'']]],
+  ['porting_20your_20romhack_2emd_6',['Porting your Romhack.md',['../Porting_01your_01Romhack_8md.html',1,'']]],
+  ['practice_7',['Obscure semantic differences from F3DEX2 that should never matter in practice',['../md_docs_2Documentation_2Design_01Tradeoffs.html#autotoc_md24',1,'']]],
+  ['processing_20rsp_20time_8',['Vertex Processing RSP Time',['../md_docs_2Documentation_2Design_01Tradeoffs.html#autotoc_md17',1,'']]],
+  ['profiling_9',['Profiling',['../md_README.html#autotoc_md5',1,'Profiling'],['../md_docs_2Documentation_2Configuration.html#autotoc_md13',1,'Profiling']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['gbi_2einc_0',['gbi.inc',['../gbi_8inc.html',1,'']]]
+  ['design_20tradeoffs_2emd_0',['Design Tradeoffs.md',['../Design_01Tradeoffs_8md.html',1,'']]]
 ];

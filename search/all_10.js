@@ -1,16 +1,12 @@
 var searchData=
 [
-  ['rdp_20temporary_20buffers_20shrinking_0',['RDP temporary buffers shrinking',['../md_README.html#autotoc_md27',1,'']]],
-  ['readme_2emd_1',['README.md',['../README_8md.html',1,'']]],
-  ['recommended_20changes_20lighting_2',['Recommended Changes (Lighting)',['../md_README.html#autotoc_md16',1,'']]],
-  ['recommended_20changes_20non_20lighting_3',['Recommended Changes (Non-Lighting)',['../md_README.html#autotoc_md15',1,'']]],
-  ['removal_4',['Far clipping removal',['../md_README.html#autotoc_md25',1,'']]],
-  ['removal_20of_20scaled_20vertex_20normals_5',['Removal of scaled vertex normals',['../md_README.html#autotoc_md26',1,'']]],
-  ['required_20changes_6',['Required Changes',['../md_README.html#autotoc_md14',1,'']]],
-  ['required_20for_20new_20features_7',['Changes Required for New Features',['../md_README.html#autotoc_md17',1,'']]],
-  ['results_8',['Performance Results',['../md_README.html#autotoc_md12',1,'']]],
-  ['romhack_20codebase_20to_20f3dex3_9',['Porting Your Romhack Codebase to F3DEX3',['../md_README.html#autotoc_md13',1,'']]],
-  ['rsp_20code_20size_10',['Optimizing for RSP code size',['../md_README.html#autotoc_md24',1,'']]],
-  ['rsp_20time_11',['Vertex Processing RSP Time',['../md_README.html#autotoc_md22',1,'']]],
-  ['rsp_5fdefs_2einc_12',['rsp_defs.inc',['../rsp__defs_8inc.html',1,'']]]
+  ['scaled_20vertex_20normals_0',['Removal of scaled vertex normals',['../md_docs_2Documentation_2Design_01Tradeoffs.html#autotoc_md21',1,'']]],
+  ['scanlines_20algorithm_1',['What happened to the clipping minimal scanlines algorithm?',['../md_docs_2Documentation_2Minimal_01Scanlines.html',1,'']]],
+  ['segment_200_2',['Segment 0',['../md_docs_2Documentation_2Design_01Tradeoffs.html#autotoc_md23',1,'']]],
+  ['semantic_20differences_20from_20f3dex2_20that_20should_20never_20matter_20in_20practice_3',['Obscure semantic differences from F3DEX2 that should never matter in practice',['../md_docs_2Documentation_2Design_01Tradeoffs.html#autotoc_md24',1,'']]],
+  ['should_20never_20matter_20in_20practice_4',['Obscure semantic differences from F3DEX2 that should never matter in practice',['../md_docs_2Documentation_2Design_01Tradeoffs.html#autotoc_md24',1,'']]],
+  ['shrinking_5',['RDP temporary buffers shrinking',['../md_docs_2Documentation_2Design_01Tradeoffs.html#autotoc_md22',1,'']]],
+  ['size_6',['Optimizing for RSP code size',['../md_docs_2Documentation_2Design_01Tradeoffs.html#autotoc_md19',1,'']]],
+  ['snoocclusionplane_7',['sNoOcclusionPlane',['../occlusionplane_8c.html#a489f9499b298056909dfdda806dfcdf3',1,'occlusionplane.c']]],
+  ['somedrawfunction_8',['someDrawFunction',['../occlusionplane_8c.html#a7d3ef3b83e8c4c1100f86fb0793c0f52',1,'occlusionplane.c']]]
 ];
